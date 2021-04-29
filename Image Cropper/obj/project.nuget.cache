@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+koGodoTR6kymVdXEKB79NRm3asKu6yXvTLrjXh91wVjBsPP++ZexuSDlQ9pJqaus1IbJugt+PrIE4CEElyChw==",
+  "success": true,
+  "projectFilePath": "D:\\Workspaces\\VS Workspace\\Image Cropper\\Image Cropper\\Image Cropper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joshua\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Joshua\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Joshua\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

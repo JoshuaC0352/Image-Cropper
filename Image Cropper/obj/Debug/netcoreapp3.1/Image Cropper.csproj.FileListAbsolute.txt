@@ -1,0 +1,19 @@
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\bin\Debug\netcoreapp3.1\Image Cropper.exe
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\obj\Debug\netcoreapp3.1\Image Cropper.csprojAssemblyReference.cache
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\obj\Debug\netcoreapp3.1\Image Cropper.AssemblyInfoInputs.cache
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\obj\Debug\netcoreapp3.1\Image Cropper.AssemblyInfo.cs
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\bin\Debug\netcoreapp3.1\Image Cropper.deps.json
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\bin\Debug\netcoreapp3.1\Image Cropper.runtimeconfig.json
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\bin\Debug\netcoreapp3.1\Image Cropper.runtimeconfig.dev.json
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\bin\Debug\netcoreapp3.1\Image Cropper.dll
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\bin\Debug\netcoreapp3.1\Image Cropper.pdb
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\obj\Debug\netcoreapp3.1\Image Cropper.csproj.CoreCompileInputs.cache
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\obj\Debug\netcoreapp3.1\Image Cropper.csproj.CopyComplete
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\obj\Debug\netcoreapp3.1\Image Cropper.dll
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\obj\Debug\netcoreapp3.1\Image Cropper.pdb
+D:\Workspaces\VS Workspace\Image Cropper\Image Cropper\obj\Debug\netcoreapp3.1\Image Cropper.genruntimeconfig.cache
